@@ -1,96 +1,43 @@
-you     5447
-i       4810
-the     3963
-and     3312
-to      2056
-me      1910
-a       1817
-in      1709
-it      1672
-my      1421
-your    1263
-of      1097
-that    1033
-all     1024
-but     983
-we      980
-like    936
-on      909
+like    937
 im      895
-is      893
-was     882
-this    823
 know    821
-be      819
-dont    744
-its     736
-when    715
-so      709
+dont    746
 youre   649
-just    643
-now     630
-never   601
+never   602
 oh      599
-for     575
-with    558
 love    546
 back    535
-up      527
-time    518
-were    518
+time    519
 cause   501
-what    496
-if      478
-out     473
-at      466
-are     435
 one     424
 got     422
-say     410
-do      391
+say     411
 baby    389
-down    380
-see     372
-come    367
-no      358
-been    344
-go      336
+see     373
+come    368
+go      337
 ill     333
-can     329
-they    324
-there   323
 think   322
 could   320
-cant    313
-not     310
-have    292
-said    273
+cant    314
+said    274
 ever    263
-wanna   262
-here    257
-he      253
-had     252
-how     252
+wanna   263
 would   249
 night   244
 take    242
 right   241
 way     235
 want    230
-from    224
 look    220
 still   219
-about   217
 gonna   217
 tell    217
 get     215
 thats   212
-too     208
 home    203
 eyes    202
 ive     202
-off     199
-as      194
 around  190
 id      189
 away    187
@@ -98,41 +45,30 @@ feel    187
 yeah    187
 better  180
 remember        180
-did     179
 made    179
 last    176
 stay    175
 wish    174
-then    173
-why     173
 let     172
-only    172
 everything      170
 keep    166
 well    165
 bad     161
 every   159
 girl    158
-will    156
-didnt   155
+didnt   156
 good    153
 long    152
 shake   152
-make    150
-new     150
-through 147
+make    151
+new     151
 us      147
 forever 145
 ooh     143
-she     143
 knew    142
-again   141
-our     141
 life    140
-name    139
+name    140
 thing   138
-by      137
-who     137
 something       136
 little  135
 always  132
@@ -141,7 +77,6 @@ youll   132
 heart   130
 things  130
 first   128
-where   127
 nothing 126
 day     125
 thought 125
@@ -149,9 +84,7 @@ yet     124
 best    122
 break   119
 gone    119
-into    118
-alone   117
-him     117
+alone   118
 leave   116
 mind    115
 even    113
@@ -162,30 +95,20 @@ live    108
 need    108
 theres  108
 hes     107
-than    107
 ohoh    106
 face    105
-or      105
-before  101
 friends 101
-her     100
 lights  99
-over    98
 really  98
-youve   96
-an      95
-should  95
-some    95
+youve   97
 put     94
 beautiful       93
 fall    93
-his     92
 lost    92
+mine    92
 saw     92
 man     91
-mine    91
 smile   91
-these   91
 door    90
 talk    88
 aint    87
@@ -202,7 +125,6 @@ hand    82
 without 80
 room    79
 sorry   79
-them    79
 blood   78
 mean    78
 wrong   78
@@ -212,10 +134,9 @@ hate    76
 rain    76
 head    75
 town    75
-am      74
+hands   74
 people  74
 weve    74
-hands   73
 waiting 73
 clear   72
 red     72
@@ -225,9 +146,7 @@ enough  71
 forget  71
 give    71
 left    71
-more    71
 end     70
-once    70
 hold    69
 play    69
 together        69
@@ -245,7 +164,6 @@ babe    66
 believe 66
 dreams  66
 fly     66
-myself  66
 wait    66
 watch   66
 wouldve 66
@@ -256,7 +174,6 @@ youd    65
 feeling 64
 getting 64
 ground  64
-has     64
 light   64
 trouble 64
 woods   64
@@ -279,22 +196,18 @@ gave    60
 phone   60
 shouldve        60
 til     60
-same    59
 today   59
 came    58
 known   58
 maybe   58
 street  58
+turn    58
 bet     57
 isnt    57
-turn    57
 blue    56
 help    56
 whoa    56
 hard    55
-other   55
-their   55
-those   55
 follow  54
 stop    54
 met     53
@@ -319,7 +232,6 @@ karma   49
 nice    49
 save    49
 snow    49
-very    49
 dance   48
 darling 48
 must    48
@@ -344,31 +256,28 @@ alright 44
 deep    44
 fake    44
 goes    44
-own     44
+seen    44
 since   44
 starlight       44
 eye     43
 many    43
 places  43
-seen    43
 try     43
-both    42
 boy     42
 days    42
 feet    42
+game    42
 god     42
 honey   42
 side    42
 silence 42
 feels   41
-game    41
 gets    41
 going   41
 ha      41
 pain    41
 story   41
 sweet   41
-after   40
 burn    40
 easy    40
 middle  40
@@ -422,13 +331,13 @@ perfect 35
 screaming       35
 soon    35
 white   35
+almost  34
 couldnt 34
 soul    34
 told    34
 whats   34
 wishing 34
 words   34
-almost  33
 body    33
 city    33
 fun     33
@@ -440,7 +349,6 @@ single  33
 stood   33
 summer  33
 sun     33
-while   33
 bright  32
 cut     32
 different       32
@@ -452,11 +360,10 @@ three   32
 two     32
 beach   31
 felt    31
+floor   31
 sing    31
-until   31
 boys    30
 cool    30
-floor   30
 held    30
 outside 30
 party   30
@@ -473,7 +380,6 @@ mr      29
 road    29
 saying  29
 simple  29
-yours   29
 beat    28
 broke   28
 burning 28
@@ -492,8 +398,6 @@ somewhere       28
 wouldnt 28
 ahah    27
 apart   27
-because 27
-does    27
 doesnt  27
 fire    27
 list    27
@@ -505,11 +409,11 @@ waitin  27
 whos    27
 wonder  27
 bye     26
-each    26
 falling 26
 heres   26
 hide    26
 kitchen 26
+loves   26
 whenever        26
 works   26
 alive   25
@@ -517,7 +421,6 @@ busy    25
 caught  25
 fifteen 25
 hurt    25
-loves   25
 quite   25
 rest    25
 running 25
@@ -525,7 +428,6 @@ throw   25
 walls   25
 wasnt   25
 worth   25
-any     24
 bring   24
 comin   24
 cry     24
@@ -542,7 +444,7 @@ sick    24
 speak   24
 start   24
 talking 24
-under   24
+undone  24
 walking 24
 watched 24
 wild    24
@@ -550,7 +452,6 @@ bed     23
 breath  23
 crying  23
 died    23
-doing   23
 games   23
 lead    23
 lying   23
@@ -560,7 +461,6 @@ sit     23
 step    23
 truth   23
 turned  23
-undone  23
 whyd    23
 write   23
 begging 22
@@ -611,7 +511,6 @@ keeps   20
 low     20
 mmmm    20
 months  20
-most    20
 pictures        20
 sparks  20
 style   20
@@ -685,6 +584,7 @@ iii     17
 impossible      17
 learn   17
 midnight        17
+money   17
 movie   17
 plans   17
 pouring 17
@@ -699,10 +599,8 @@ tryna   17
 virgins 17
 water   17
 woah    17
-yourself        17
 arent   16
 behind  16
-being   16
 bought  16
 chasing 16
 cornelia        16
@@ -711,6 +609,7 @@ doin    16
 drop    16
 everyone        16
 falls   16
+feelin  16
 grace   16
 happiness       16
 history 16
@@ -718,7 +617,6 @@ hits    16
 knees   16
 lonely  16
 mmm     16
-money   16
 ohho    16
 ohohoh  16
 page    16
@@ -737,13 +635,11 @@ understand      16
 wine    16
 ago     15
 anyone  15
-between 15
 bless   15
 born    15
 cried   15
 delicate        15
 distance        15
-feelin  15
 flew    15
 forgot  15
 four    15
@@ -758,6 +654,7 @@ london  15
 marvelous       15
 merry   15
 nothin  15
+paint   15
 peace   15
 pretend 15
 question        15
@@ -798,7 +695,6 @@ match   14
 matter  14
 move    14
 nothings        14
-paint   14
 pay     14
 realized        14
 reckless        14
@@ -814,7 +710,6 @@ ten     14
 watching        14
 whisper 14
 bigger  13
-few     13
 flames  13
 gettin  13
 gorgeous        13
@@ -883,7 +778,6 @@ note    12
 older   12
 oohah   12
 oohoohoohoohooh 12
-ours    12
 palm    12
 pretenders      12
 pride   12
@@ -900,7 +794,6 @@ signs   12
 smiles  12
 somethings      12
 streets 12
-such    12
 supposed        12
 tight   12
 tragic  12
@@ -932,6 +825,7 @@ forgiveness     11
 freedom 11
 ghost   11
 haunt   11
+hung    11
 hurts   11
 keys    11
 kinda   11
@@ -957,6 +851,7 @@ team    11
 twist   11
 view    11
 waters  11
+weather 11
 windows 11
 wound   11
 asked   10
@@ -977,7 +872,6 @@ heartbeat       10
 heels   10
 honest  10
 hopin   10
-hung    10
 iiii    10
 jeans   10
 john    10
@@ -1001,6 +895,7 @@ picked  10
 princess        10
 promises        10
 prove   10
+rules   10
 saint   10
 santa   10
 scarlet 10
@@ -1020,7 +915,6 @@ trace   10
 tragedy 10
 trees   10
 tshirt  10
-weather 10
 whys    10
 wide    10
 wider   10
@@ -1072,6 +966,7 @@ howd    9
 hows    9
 james   9
 kids    9
+killin  9
 kings   9
 knife   9
 knocked 9
@@ -1079,6 +974,7 @@ lavender        9
 lies    9
 meant   9
 minute  9
+mornin  9
 motion  9
 names   9
 neck    9
@@ -1090,7 +986,6 @@ price   9
 pull    9
 pushed  9
 radidididididididididada        9
-rules   9
 sense   9
 shining 9
 ships   9
@@ -1113,11 +1008,9 @@ voices  9
 waking  9
 warning 9
 week    9
-which   9
 wideeyed        9
 win     9
 worry   9
-above   8
 anyway  8
 arunning        8
 autumn  8
@@ -1164,14 +1057,13 @@ hundred 8
 imagined        8
 impress 8
 jumping 8
-killin  8
 lasts   8
 lesson  8
+lines   8
 lip     8
 lived   8
 livin   8
 mmmmmm  8
-mornin  8
 near    8
 nines   8
 number  8
@@ -1227,7 +1119,6 @@ wrapped 8
 wrote   8
 across  7
 act     7
-against 7
 amount  7
 asleep  7
 attitude        7
@@ -1281,7 +1172,6 @@ land    7
 lap     7
 laughin 7
 lay     7
-lines   7
 listening       7
 lovin   7
 meee    7
@@ -1388,10 +1278,10 @@ fucking 6
 gate    6
 glitch  6
 gown    6
+guard   6
 happen  6
 harder  6
 haters  6
-having  6
 heartbreakers   6
 herd    6
 highest 6
@@ -1429,6 +1319,7 @@ nasty   6
 nowhere 6
 pageant 6
 pages   6
+painted 6
 paris   6
 parties 6
 peoples 6
@@ -1457,7 +1348,6 @@ recognize       6
 remembered      6
 revolution      6
 runs    6
-s       6
 scarf   6
 season  6
 shadows 6
@@ -1576,7 +1466,6 @@ fuckin  5
 girlfriend      5
 glisten 5
 grip    5
-guard   5
 halfway 5
 handsome        5
 happens 5
@@ -1605,7 +1494,6 @@ movies  5
 mystery 5
 na      5
 occasion        5
-painted 5
 paradise        5
 parents 5
 park    5
@@ -1726,6 +1614,7 @@ crumbling       4
 cryin   4
 dangerous       4
 darlin  4
+dazzling        4
 deal    4
 decided 4
 defending       4
@@ -1783,6 +1672,7 @@ jesus   4
 joker   4
 keepin  4
 kidding 4
+killed  4
 lady    4
 lakes   4
 leavin  4
@@ -1887,7 +1777,6 @@ sympathy        4
 tables  4
 tallest 4
 tellin  4
-theirs  4
 theyve  4
 thieves 4
 thirst  4
@@ -2019,7 +1908,6 @@ damned  3
 danger  3
 dash    3
 dates   3
-dazzling        3
 deepest 3
 defense 3
 demons  3
@@ -2093,7 +1981,6 @@ heavenly        3
 hed     3
 helmet  3
 highgate        3
-himself 3
 hollow  3
 ice     3
 iisland 3
@@ -2104,7 +1991,6 @@ insensitive     3
 jacket  3
 jealousy        3
 jet     3
-killed  3
 laughter        3
 law     3
 legacy  3
@@ -2152,7 +2038,6 @@ nver    3
 obvious 3
 office  3
 ohohahh 3
-ourselves       3
 outnumbered     3
 outta   3
 overnight       3
@@ -2170,6 +2055,7 @@ pine    3
 plaid   3
 plain   3
 poets   3
+poison  3
 polaroid        3
 precipice       3
 prey    3
@@ -2282,7 +2168,6 @@ wishes  3
 wishful 3
 witches 3
 within  3
-won     3
 wondered        3
 wooden  3
 worrying        3
@@ -2335,7 +2220,6 @@ basslines       2
 beats   2
 begins  2
 bells   2
-below   2
 belt    2
 beside  2
 betrayal        2
@@ -2698,7 +2582,6 @@ lurking 2
 luxury  2
 lyin    2
 lyrical 2
-m       2
 madison 2
 magazine        2
 maim    2
@@ -2797,7 +2680,6 @@ planning        2
 playful 2
 poem    2
 poems   2
-poison  2
 poisoned        2
 poke    2
 poker   2
@@ -2964,7 +2846,6 @@ teenage 2
 teeth   2
 tests   2
 thank   2
-themselves      2
 thick   2
 thigh   2
 thighs  2
@@ -2980,6 +2861,7 @@ thunder 2
 ticking 2
 ticktock        2
 tide    2
+tie     2
 tip     2
 tlc     2
 tll     2
@@ -3047,6 +2929,7 @@ whites  2
 whn     2
 wicklow 2
 wildfire        2
+winestained     2
 wink    2
 wins    2
 wire    2
@@ -3064,7 +2947,6 @@ yeahyeah        2
 yearning        2
 yelling 2
 younger 2
-about you       1
 absolutely      1
 accent  1
 accident        1
@@ -3092,15 +2974,10 @@ alcott  1
 align   1
 alley   1
 alleyway        1
-almost killed   1
 alpha   1
 altruism        1
 amazing 1
 amber   1
-and if  1
-and i   1
-and mine        1
-and tie 1
 ane     1
 antithetical    1
 anxious 1
@@ -3129,7 +3006,6 @@ auras   1
 auroras 1
 avalanche       1
 awkward 1
-a dazzling      1
 b       1
 babes   1
 babylon 1
@@ -3156,7 +3032,6 @@ bears   1
 beaten  1
 beatin  1
 beautifully     1
-because the     1
 becoming        1
 bedtime 1
 beer    1
@@ -3274,7 +3149,7 @@ charm   1
 charmed 1
 chatter 1
 chcks   1
-cheapass screwtop       1
+cheapass        1
 cheat   1
 checkmate       1
 chemistry       1
@@ -3398,7 +3273,6 @@ desire  1
 devices 1
 diaries 1
 dickhead        1
-didnt see me here       1
 diesel  1
 digging 1
 dignified       1
@@ -3504,7 +3378,6 @@ fazed   1
 fbi     1
 feast   1
 feathers        1
-feelin alone    1
 feenin  1
 ferociously     1
 feud    1
@@ -3615,7 +3488,6 @@ halls   1
 halo    1
 handful 1
 handprints      1
-hands just killin time  1
 handwriting     1
 hangin  1
 hangs   1
@@ -3640,7 +3512,6 @@ helping 1
 helpless        1
 heroes  1
 heros   1
-herself 1
 hesaid  1
 hesitation      1
 hideandseek     1
@@ -3664,7 +3535,6 @@ hour    1
 houses  1
 hundredmileanhour       1
 hundredth       1
-hung my 1
 hunt    1
 hunting 1
 husband 1
@@ -3705,9 +3575,6 @@ invitations     1
 iron    1
 issue   1
 issues  1
-i dont  1
-i cant  1
-i i     1
 jail    1
 jailer  1
 jennifer        1
@@ -3774,7 +3641,6 @@ lookout 1
 loudest 1
 lov     1
 lovelorn        1
-loves a game wanna      1
 loyal   1
 ltter   1
 luck    1
@@ -3794,7 +3660,6 @@ magnificently   1
 maidens 1
 main    1
 makebelieve     1
-make the rules  1
 malfunction     1
 maps    1
 marching        1
@@ -3825,8 +3690,6 @@ messes  1
 metaphor        1
 meteor  1
 methodist       1
-me here 1
-me like a winestained   1
 midair  1
 midas   1
 middleclass     1
@@ -3867,9 +3730,7 @@ neighbors       1
 nemeses 1
 neverending     1
 neverneedy      1
-never did       1
 nevr    1
-new money       1
 nicer   1
 niceties        1
 nigga   1
@@ -3886,7 +3747,6 @@ notebook        1
 noticed 1
 notices 1
 novelty 1
-now youve come undone   1
 nurses  1
 oasis   1
 oath    1
@@ -3934,7 +3794,7 @@ pair    1
 palaces 1
 pale    1
 paperthin       1
-parallel lines  1
+parallel        1
 paranoia        1
 parked  1
 parody  1
@@ -4116,7 +3976,6 @@ rusting 1
 sable   1
 sacks   1
 sadly   1
-said dont       1
 sails   1
 sainttropez     1
 sake    1
@@ -4137,10 +3996,10 @@ scraming        1
 scrap   1
 scratch 1
 screens 1
+screwtop        1
 scrutiny        1
 seats   1
 seeing  1
-seen you        1
 selfeffacing    1
 selfexpression  1
 selfie  1
@@ -4238,7 +4097,7 @@ sphere  1
 spice   1
 spider  1
 spineless       1
-spit me 1
+spit    1
 splatter        1
 spnd    1
 spoke   1
@@ -4314,7 +4173,7 @@ tape    1
 tapestry        1
 tappin  1
 tarnished       1
-tasted poison you       1
+tasted  1
 tasteful        1
 teaches 1
 teal    1
@@ -4333,11 +4192,7 @@ terror  1
 texts   1
 thankin 1
 thatve  1
-that it was     1
-then go 1
 therein 1
-the mornin with 1
-the weather     1
 thief   1
 threads 1
 threaten        1
@@ -4346,7 +4201,6 @@ throat  1
 thrownout       1
 tickets 1
 tides   1
-tie     1
 ties    1
 tiffanys        1
 tilted  1
@@ -4362,7 +4216,6 @@ toward  1
 tower   1
 toy     1
 toyin   1
-to turn 1
 traits  1
 trampled        1
 transport       1
@@ -4411,7 +4264,6 @@ unsuspecting    1
 uphill  1
 uppercrust      1
 upright 1
-up on the floor 1
 urges   1
 veins   1
 vendettata      1
@@ -4453,7 +4305,6 @@ wet     1
 whatifs 1
 wheel   1
 wheels  1
-when all those  1
 wheres  1
 whether 1
 whip    1
@@ -4470,7 +4321,6 @@ willing 1
 wilt    1
 winds   1
 windshield      1
-winestained     1
 winless 1
 winnin  1
 wisest  1
@@ -4487,11 +4337,6 @@ yah     1
 yo      1
 yogurt  1
 yon     1
-your name       1
-your guard is   1
 youth   1
-you painted     1
-you paint me a  1
-you say 1
 z       1
 zendaya 1
